@@ -1,0 +1,21 @@
+i root 뿌리
+i river 강
+i moon 달
+i root 루트
+i liver 간
+d root
+p
+s root
+s liver
+p
+i new 뉴
+i moon 문문
+i now 지금
+p
+i sing 노래
+i zebra 얼룩말
+i yg 약쟁이
+d moon
+p
+d sing
+p

@@ -1,0 +1,10 @@
+enqueue 강개리 20175213 24 75 85
+enqueue 유재석 20189753 90 92 87
+enqueue 송지효 20143267 76 83 91
+dequeue
+enqueue 하동훈 20138764 40 50 87
+enqueue 강호동 20189341 87 53 39
+dequeue
+dequeue
+dequeue
+enqueue 이순신 20139141 97 93 79
